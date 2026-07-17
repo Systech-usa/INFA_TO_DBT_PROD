@@ -1,0 +1,13 @@
+name: 'm_fds_uubvi_elim_work_init_gpng_finc_ins_wrk'
+version: '1.0'
+vars:
+  BATCH_ID: 
+  POP_INFO_ID: 
+  SEQ_AGMT_ANCHOR_ID: 
+  SEQ_CML_AGMT_ID: 
+  DBOwnerFDS: 
+  SEQ_FINC_SERVS_ROL_ID: 
+  SEQ_DELR_CONTR_TYP_ID: 
+  DBOwnerATM_MM: 
+  DBOwnerWRK: 
+  DBOwnerATM: 

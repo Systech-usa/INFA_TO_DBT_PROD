@@ -1,0 +1,30 @@
+version: 2
+
+sources:
+  - name: dbaall
+    database: MMMDB
+    schema: dbaall
+    tables:
+      - name: CD
+      - name: CTRL_UUBVI_ELIM_WORK_INIT_GPNG_FINC_INS
+      - name: EXTL_ORG
+      - name: EXTL_ORG
+EXTL_ORG
+      - name: TYP
+
+models:
+  - name: int_r_exp_set_audit_cols_pdo
+  - name: int_r_lkp_typ_id_pdo
+  - name: int_mplt_valdt_curr_cd_pdo
+  - name: int_mplt_valdt_co_cd_pdo
+  - name: trans_exp_lkp_trans_curr_cd
+  - name: trans_exp_find_new
+  - name: trans_exp_exist_cml_agmt_existing
+  - name: trans_exp_exist_cml_agmt_new
+  - name: trans_exp_get_cd
+  - name: stg_sq_ctrl_uubvi_elim_work_init_gpng_finc_ins
+  - name: trans_exptranscode
+  - name: trans_exp_cml_agmt_insert_new
+  - name: int_rtr_new_exist_cml_agmt
+  - name: trans_exptrans
+  - name: stg_tgt_wrk_uubvi_elim_work_init_gpng_finc_ins
