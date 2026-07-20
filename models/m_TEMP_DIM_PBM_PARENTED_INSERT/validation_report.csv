@@ -1,0 +1,7 @@
+Object_Name,Status,Summary,Logic_Equivalence_status,Logic_Equivalence_finding,Metadata_Consistency_status,Metadata_Consistency_finding,Naming_Conventions_status,Naming_Conventions_finding,Function_Mapping_status,Function_Mapping_finding,Upstream_Referencing_status,Upstream_Referencing_finding
+Fltr_Transformation,ERROR,Validator LLM call failed (empty response after retries).,,,,,,,,,,
+lkp_DIM_PBM_PARENTED_ON_PBM_HUB_SK,ERROR,Validator LLM call failed (empty response after retries).,,,,,,,,,,
+Exp_Landingzone,ERROR,Validator LLM call failed (empty response after retries).,,,,,,,,,,
+SQ_GNP2_LIB_ODS_ABFORCE_PBM,ERROR,Validator LLM call failed (empty response after retries).,,,,,,,,,,
+TEMP_DIM_PBM_PARENTED,ERROR,Validator LLM call failed (empty response after retries).,,,,,,,,,,
+EXP_Define_PBM_HUB_SK,ERROR,Validator LLM call failed (empty response after retries).,,,,,,,,,,
