@@ -1,0 +1,10 @@
+name: 'm_fds_ctrl_sprd_mnthly_amts_atomic_last_ins'
+version: '1.0'
+vars:
+  POP_INFO_ID: 
+  BATCH_ID: 
+  DBOwnerFDS: 
+  FINC_PRD: 
+  DBOwnerATM: 
+  DBOwnerWRK: 
+  DBOwnerPRST:
