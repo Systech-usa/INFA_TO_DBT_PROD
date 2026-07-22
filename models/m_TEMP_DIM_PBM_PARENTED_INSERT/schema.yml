@@ -1,0 +1,21 @@
+version: 2
+
+sources:
+  - name: GNP2ODS
+    database: GNP2ODS
+    schema: GNP2ODS
+    tables:
+      - name: ODS_ABFORCE_PBM
+  - name: GNP2DATA
+    database: GNP2ODS
+    schema: GNP2DATA
+    tables:
+      - name: DIM_PBM_PARENTED
+
+models:
+  - name: int_fltr_transformation
+  - name: trans_exp_landingzone
+  - name: int_lkp_dim_pbm_parented_on_pbm_hub_sk
+  - name: stg_sq_gnp2_lib_ods_abforce_pbm
+  - name: trans_exp_define_pbm_hub_sk
+  - name: stg_tgt_temp_dim_pbm_parented
